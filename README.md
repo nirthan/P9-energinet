@@ -1,4 +1,3 @@
-# Predicting Interest and Potential in Household Energy Sharing in Denmark
 
 ## 📘 Overview
 
